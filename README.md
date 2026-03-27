@@ -1,16 +1,13 @@
-## Hi there 👋
+# Vitalityfit (Xealti UG)
 
-<!--
-**vitalityfit/vitalityfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+German technology company building price comparison tools for health, beauty, and wellness products.
 
-Here are some ideas to get you started:
+## Our Product
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Vitalityfit](https://vitality-fit.de) — independent price comparison platform aggregating daily-updated prices from 50+ licensed German pharmacies, drugstores, and specialty shops. Free, ad-free, no paid placements.
+
+Available on Web, iOS, and Android.
+
+## Contact
+
+service@vitality-fit.de
